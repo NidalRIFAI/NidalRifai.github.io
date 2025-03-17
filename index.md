@@ -9,14 +9,14 @@ hero_image_ratio: is-1by1
 ---
 
 # Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en génie énergétique et systèmes numériques
 
 
-Disponible XX mois à partir de Date
+Disponible 2 mois à partir de Juin
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[Nidal.RIFAI[at]xxx.com](mailto:nidal.rifai@etu.unilasalle.fr)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn]([https://www.linkedin.com/in/Prenom.Nom](https://www.linkedin.com/in/nidal-rifai-b00767345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
-Permis B, voiture
+
 
