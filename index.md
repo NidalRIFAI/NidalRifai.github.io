@@ -16,4 +16,4 @@ Disponible 2 mois à partir de Juin
 
 [nidal.rifai@etu.unilasalle.fr](mailto:nidal.rifai@etu.unilasalle.fr)
 
-[linked](https://www.linkedin.com/in/nidal-rifai-b00767345)
+[linkedin](https://www.linkedin.com/in/nidal-rifai-b00767345)
